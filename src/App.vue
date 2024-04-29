@@ -38,7 +38,7 @@
             <router-link tag="li" class="player-stations-list-item flex-row flex-top flex-stretch" v-for="c of filteredStations" :key="c.station.id" :to="{ name: 'station', params: { shortcode: c.station.shortcode }}">
               <!--<figure id="player-bg" class="player-bg" v-bind:style="{ 'background-image': `url(${c.now_playing.song.art})` }"></figure>-->
               <figure class="push-right">
-                <img class="img-round" width="70" height="70" :src="c.now_playing.song.art" :alt="c.station.name" @error="c.station.image='/img/icon.png'"/>
+                <img class="img-round" width="90" height="90" :src="c.now_playing.song.art" :alt="c.station.name" @error="c.station.image='/img/icon.png'"/>
               </figure>
               <aside class="flex-1">
                 <div class="flex-row flex-middle flex-space">
