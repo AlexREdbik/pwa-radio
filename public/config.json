@@ -1,9 +1,9 @@
 {
-  "api_url" : "https://demo.azuracast.com/api",
-  "title": "Joujma FM | Radio Station",
-  "description" : "Live Radio 24/7 Hits music Only test",
+  "api_url" : "https://stream.insidefm.eu/api",
+  "title": "InsideFM | Radio Station",
+  "description" : "InsideFm.eu - Live Radio 24/7 Hits",
   "manifest" : {
-    "short_name": "Joujma FM",
+    "short_name": "InsideFM",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/?utm_source=pwa_homescreen",
@@ -17,8 +17,8 @@
   "showPlaylist" : false,
   "socialBtn" : false,
   "meta": {
-    "url" : "https://player.jelliti.me",
-    "image" : "https://player.jelliti.me/img/icon.png",
+    "url" : "https://live.insidefm.eu",
+    "image" : "https://insidefm.eu/uploads/player/img/icon.png",
     "locale" : "US_en"
   },
   "twitter" : {
