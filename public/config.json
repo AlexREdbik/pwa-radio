@@ -14,7 +14,7 @@
   "player": {
     "showLyrics": true
   },
-  "showPlaylist" : false,
+  "showPlaylist" : true,
   "socialBtn" : false,
   "meta": {
     "url" : "https://live.insidefm.eu",
