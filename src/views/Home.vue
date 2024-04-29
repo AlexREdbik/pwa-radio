@@ -23,7 +23,7 @@
         </div>
         <figure class="station-play">
           <div id="station-logo">
-            <img width="100" height="100"
+            <img width="150" height="150"
                  :src="c.station.image"
                  :alt="c.station.name"
                  @error="c.station.image='/img/icon.png'"
