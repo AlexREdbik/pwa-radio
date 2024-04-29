@@ -17,9 +17,9 @@
   "showPlaylist" : true,
   "socialBtn" : false,
   "meta": {
-    "url" : "https://live.insidefm.eu",
+    "url" : "https://insidefm.eu",
     "image" : "https://insidefm.eu/uploads/player/img/icon.png",
-    "locale" : "US_en"
+    "locale" : "RU_ru"
   },
   "twitter" : {
     "username" : ""
