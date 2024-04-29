@@ -1,15 +1,11 @@
 # Azuracast PWA Player 
-###### Full documentation is coming soon.
-
-<img src="https://user-images.githubusercontent.com/2962369/117323879-92b7af80-ae8f-11eb-9411-90fe1bc0459a.gif" width="300">
-
 
 # Install AzuraCast Player
  You can play locally with the player. Todo so you can clone the project then install all the dependencies .
 
 ```
-git clone https://github.com/oussamatn/radio-player.git
-cd radio-player
+git clone https://github.com/AlexREdbik/pwa-radio.git
+cd pwa-player
 npm install
 ```
 
@@ -139,5 +135,4 @@ If you are planning to deploy the app on a private hosting provider, you have to
 This player will  always be available free of charge, but if you find it useful and would like to support the
 project developer, you make donation. Your support is greatly appreciated.
 
-<a href="https://ko-fi.com/simyos" target="_blank" title="Buy me a coffee!"><img height='32' style='border:0px;height:32px;' src='https://az743702.vo.msecnd.net/cdn/kofi1.png?v=b' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
