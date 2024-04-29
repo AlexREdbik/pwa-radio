@@ -1,9 +1,9 @@
 {
   "api_url" : "https://stream.insidefm.eu/api",
-  "title": "InsideFM | Radio Station",
+  "title": "InsideFM.eu | Radio Station",
   "description" : "InsideFm.eu - Live Radio 24/7 Hits",
   "manifest" : {
-    "short_name": "InsideFM",
+    "short_name": "InsideFM.eu",
     "orientation": "portrait",
     "display": "standalone",
     "start_url": "/?utm_source=pwa_homescreen",
@@ -15,10 +15,10 @@
     "showLyrics": true
   },
   "showPlaylist" : true,
-  "socialBtn" : false,
+  "socialBtn" : true,
   "meta": {
-    "url" : "https://insidefm.eu",
-    "image" : "https://insidefm.eu/uploads/player/img/icon.png",
+    "url" : "https://alexredbik-pwa-radio-0ec9.twc1.net/",
+    "image" : "https://alexredbik-pwa-radio-0ec9.twc1.net/img/icon.png",
     "locale" : "RU_ru"
   },
   "twitter" : {
